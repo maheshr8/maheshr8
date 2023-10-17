@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**maheshr8/maheshr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mahesh Raut, a Masters student in Data Science from the University of Guelph. My journey spans across Data Visualization, Statistics, and Machine Learning with prior years of rich experience in the IT industry.
 
-Here are some ideas to get you started:
+🏢 Previously, I worked as a Software Engineer at KPIT Technologies Ltd. in Pune, which is also my hometown. During my tenure there, I developed a profound expertise in coding, data analysis, and problem-solving. Notably, I contributed to projects for Nissan's Traffic Light recognition systems and Magna Video Analysis. These experiences enhanced my abilities to analyze and visualize large datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Over the past 3-4 years, I've polished my skills in various programming languages and tools essential for data science. I possess a keen interest in working with data and have a knack for team collaborations.
+
+📚 Continuous learning is my mantra. I always strive to keep myself updated with the latest trends in data science. My passion is to contribute to projects that foster innovation and usher in positive change.
+
+🔭 I’m currently working on enhancing my data visualization techniques.
+🌱 I’m diving deeper into advanced Machine Learning algorithms.
+👯 I’m open to collaborate on impactful Data Science projects.
+💬 Ask me about my experiences at KPIT Technologies or any data-related queries.
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mahesh-raut)
+😄 Pronouns: He/Him
+⚡ Fun fact: On weekends, I often become a local tourist, exploring hidden gems in my own city.
+
+![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshr8&show_icons=true&theme=radical)
