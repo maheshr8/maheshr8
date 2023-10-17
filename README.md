@@ -15,5 +15,3 @@ I'm Mahesh Raut, a Masters student in Data Science from the University of Guelph
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mahesh-raut)
 😄 Pronouns: He/Him
 ⚡ Fun fact: On weekends, I often become a local tourist, exploring hidden gems in my own city.
-
-![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshr8&show_icons=true&theme=radical)
