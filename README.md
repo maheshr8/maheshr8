@@ -4,7 +4,7 @@ I'm Mahesh Raut, a Masters student in Data Science from the University of Guelph
 
 🏢 Previously, I worked as a Software Engineer at KPIT Technologies Ltd. in Pune, which is also my hometown. During my tenure there, I developed a profound expertise in coding, data analysis, and problem-solving. Notably, I contributed to projects for Nissan's Traffic Light recognition systems and Magna Video Analysis. These experiences enhanced my abilities to analyze and visualize large datasets.
 
-🔍 Over the past 3-4 years, I've polished my skills in various programming languages and tools essential for data science. I possess a keen interest in working with data and have a knack for team collaborations.
+🔍 Over the past few years, I've polished my skills in various programming languages and tools essential for data science. I possess a keen interest in working with data and have a knack for team collaborations.
 
 📚 Continuous learning is my mantra. I always strive to keep myself updated with the latest trends in data science. My passion is to contribute to projects that foster innovation and usher in positive change.
 
