@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mahesh Raut, a Masters student in Data Science from the University of Guelph graduating in February 2024. My journey spans Data Visualization, Statistics, Artificial Intelligence, and Machine Learning with prior years of rich experience in the IT industry.
+I'm Mahesh Raut, a Master student in Data Science from the University of Guelph graduating in February 2024. My journey spans Data Visualization, Statistics, Artificial Intelligence, and Machine Learning with prior years of rich experience in the IT industry.
 
 🏢 Previously, I worked as a Software Engineer at KPIT Technologies Ltd. During my tenure there, I developed a profound expertise in coding, data analysis, and problem-solving. Notably, I contributed to projects for Nissan's Traffic Light recognition systems and Magna Video Analysis. These experiences enhanced my ability to analyze and visualize large datasets.
 
