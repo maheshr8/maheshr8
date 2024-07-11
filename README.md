@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mahesh Raut, a graduate student in Data Science from the University of Guelph. My journey spans Data Engineering, Data Modeling, Data Mining, Data Cleaning, Data Visualization, and building Data Pipelines.
+I'm Mahesh Raut, possessing nearly 5+ years of focused IT experience as an Azure Data Engineer, adeptly utilizing Azure Data Factory, Azure Synapse, Azure Databricks, and various other data analytics platforms to drive efficient data engineering solutions. My journey spans Data Engineering, Data Modeling, Data Mining, Data Cleaning, Data Visualization, and building Data Pipelines.
 
 🏢 Previously, I worked as a Software Engineer at KPIT Technologies Ltd. During my tenure there, I developed a profound expertise in coding, data engineering, data analysis, and problem-solving. 
 
