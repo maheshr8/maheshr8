@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mahesh Raut, possessing nearly 5+ years of focused IT experience as an Azure Data Engineer, adeptly utilizing Azure Data Factory, Azure Synapse, Azure Databricks, and various other data analytics platforms to drive efficient data engineering solutions. My journey spans Data Engineering, Data Modeling, Data Mining, Data Cleaning, Data Visualization, and building Data Pipelines.
+I'm Mahesh Raut, possessing nearly 4+ years of focused IT experience as an Azure Data Engineer, adeptly utilizing Azure Data Factory, Azure Synapse, Azure Databricks, and various other data analytics platforms to drive efficient data engineering solutions. My journey spans Data Engineering, Data Modeling, Data Mining, Data Cleaning, Data Visualization, and building Data Pipelines.
 
 🔍 Over the past few years, I've polished my skills in various programming languages and tools essential for data engineering and data science. I possess a keen interest in working with data and have a knack for team collaboration.
 
